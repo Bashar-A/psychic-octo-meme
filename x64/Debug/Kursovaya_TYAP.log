@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(294,49): warning C4244:  'argument': conversion from 'wchar_t' to 'char', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(298,85): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(298,49): warning C4244:  'argument': conversion from 'wchar_t' to 'char', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(306,48): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(325,71): warning C4244:  'argument': conversion from 'wchar_t' to 'char', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(326,52): warning C4244:  'argument': conversion from 'wchar_t' to 'char', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(336,49): warning C4244:  'argument': conversion from 'wchar_t' to 'char', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(340,85): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(340,49): warning C4244:  'argument': conversion from 'wchar_t' to 'char', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(348,48): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(375,49): warning C4244:  'argument': conversion from 'wchar_t' to 'char', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(379,85): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(379,49): warning C4244:  'argument': conversion from 'wchar_t' to 'char', possible loss of data
+F:\Projects\C++\Kursovaya_TYAP\MyForm.h(387,48): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Kursovaya_TYAP.vcxproj -> F:\Projects\C++\Kursovaya_TYAP\x64\Debug\Kursovaya_TYAP.exe
