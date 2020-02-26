@@ -792,6 +792,7 @@ private: System::Void Button1_Click(System::Object^ sender, System::EventArgs^ e
 
 }
 private: System::Void TbInput_TextChanged(System::Object^ sender, System::EventArgs^ e) {
+	int gittest = 0;
 	textBox1->Text = "";
 	textBox2->Text = "";
 	textBox3->Text = "";
